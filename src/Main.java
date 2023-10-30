@@ -8,7 +8,8 @@ public class Main{
         Scanner input = new Scanner(System.in);
 
         String read = input.nextLine();
-        System.out.println(read);
+        System.out.println("Your name is " + read);
+
 
     }
 }

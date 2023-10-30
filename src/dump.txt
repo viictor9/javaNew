@@ -1,0 +1,2 @@
+reference variable is also called the identifier
+object is also called as literals
