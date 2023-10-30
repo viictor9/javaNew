@@ -1,2 +1,12 @@
 reference variable is also called the identifier
 object is also called as literals
+
+
+primitive and non primitive 
+
+sout system.out.println
+psvm public static void main
+fori for loop
+foreach for each loop
+forr reverse for loop
+psfs public static final
