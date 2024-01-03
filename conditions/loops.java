@@ -10,13 +10,13 @@ public class loops {
         // }
 
         
-        // Scanner in = new Scanner(System.in);
-        // System.out.print("Enter the number: ");
-        // int n = in.nextInt();
+        Scanner in = new Scanner(System.in);
+        System.out.print("Enter the number: ");
+        int n = in.nextInt();
 
-        // for(int num = 1; num <= n; num++){
-        //     System.out.println(num);
-        // }
+        for(int num = 1; num <= n; num++){
+            System.out.println(num);
+        }
 
 
         Scanner scan = new Scanner(System.in);

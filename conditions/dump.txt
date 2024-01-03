@@ -1,0 +1,4 @@
+for loop - when you know when to end
+while loop - when you are uncertain when to end
+
+
