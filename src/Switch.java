@@ -21,5 +21,7 @@ public class Switch {
             break;
         }
 
+        in.close();
+
     }
 }

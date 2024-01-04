@@ -11,6 +11,7 @@ public class Sum {
         int answer = first + second;
 
         System.out.println("Your answer is: " + answer);
+        scan.close();
     }
 }
 

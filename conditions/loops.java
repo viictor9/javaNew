@@ -26,5 +26,9 @@ public class loops {
             System.out.println(l);
             l++;
         }
+        in.close();
+        scan.close();
+
     }
+
 }

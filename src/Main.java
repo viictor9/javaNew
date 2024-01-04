@@ -10,6 +10,6 @@ public class Main{
         String read = input.nextLine();
         System.out.println("Your name is " + read);
 
-
+        input.close();
     }
 }
